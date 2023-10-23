@@ -1,0 +1,24 @@
+#ignore these files
+*.a
+*.exe
+*.o
+*.vcxproj.filters
+*.vcxproj.user
+*.vpwhist
+*.vtg
+/msvc/.vs
+/msvc/np03/.vs
+/msvc/np03/x64/
+/msvc/np03_test/x64
+/msvc/x64/
+/gcc/Debug/
+/gcc/Profile/
+/gcc/Release/
+/msvc/np03_test/*.bmp
+/msvc/np03_test/cf01_jrnl.txt
+/gcc/test/*.bmp
+/gcc/test/cf01_jrnl.txt
+/gcc/test/*.txt
+/msvc/test/cf01_jrnl.txt
+/msvc/test/*.bmp
+/msvc/test/*.txt
